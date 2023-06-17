@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minchol777&theme=prussian&show_icons=true">
 </p>
 
- <p align="center">
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width ="200px">
-</p>
 
 <br>
 
@@ -38,6 +35,11 @@
 <div align="center"><b>.....</b></div>
 <br>
 <br>
+### <p align="center">My HomePage</p>
+
+ <p align="center">
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width ="200px">
+</p>
 
 
 ### <p align="center">Contact📱</p>
