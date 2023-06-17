@@ -11,7 +11,7 @@
 
 <br>
 
-### <p align="center">My Technology Stack👨🏽‍💻</p>
+## <p align="center">👨My Technology Stack👨🏽‍💻</p>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -36,14 +36,14 @@
 <br>
 <br>
 
-### <p align="center">My HomePage</p>
+## <p align="center">My HomePage</p>
 
  <p align="center">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width ="200px">
 </p>
 
 
-### <p align="center">Contact📱</p>
+## <p align="center">📱Contact📱</p>
 
 <p align="center">
 <a href="mailto:smc991009@gmail.com">
