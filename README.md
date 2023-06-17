@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:B0C4DE,100:87CEEB&height=300&section=header&text=Hello%20World!&fontAlign=77&fontColor=000000&fontSize=60&desc=minchol's%20Github&descSize=25&descAlign=85"/>
 </p>
 
-### <p align="center"> Welcome 👋</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minchol777&theme=prussian&show_icons=true">
+</p>
 
  <p align="center">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width ="200px">
@@ -34,11 +38,6 @@
 <div align="center"><b>.....</b></div>
 <br>
 <br>
-
-### <p align="center">My status🎫</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minchol777&theme=prussian&show_icons=true">
-</p>
 
 
 ### <p align="center">Contact📱</p>
