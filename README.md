@@ -4,7 +4,7 @@
 
 ### <p align="center"> Welcome 👋</p>
 
-![Coding GIF](https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif)
+ <p align="center"> ![Coding GIF](https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif) </p>
 
 <br>
 
