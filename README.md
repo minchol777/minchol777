@@ -34,7 +34,7 @@
 
 <div align="center"><b>.....</b></div>
 <br>
-<br>
+
 
 ## <p align="center">Tech Interests✨</p>
 <p align="center">
@@ -43,12 +43,15 @@
 <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
+<br>
+
 ## <p align="center">My HomePage</p>
 
  <p align="center">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width ="200px">
 </p>
 
+<br>
 
 ### <p align="center">Contact📱</p>
 
