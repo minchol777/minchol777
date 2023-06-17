@@ -36,7 +36,7 @@
 <br>
 <br>
 
-## <p align="center">Tech Interests</p>
+## <p align="center">Tech Interests✨</p>
 
 
 ## <p align="center">My HomePage</p>
