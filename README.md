@@ -31,10 +31,12 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-<br>
+
 <div align="center"><b>.....</b></div>
 <br>
 <br>
+## <p align="center">Tech Interests</p>
+
 
 ## <p align="center">My HomePage</p>
 
