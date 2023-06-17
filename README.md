@@ -48,7 +48,7 @@
 ## <p align="center">My HomePage</p>
 
 <p align="center">
-  <a href="https://github.com/minchol777/">
+  <a href="https://minchol777.github.io/">
     <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Coding GIF" width="200px">
   </a>
 </p>
