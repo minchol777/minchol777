@@ -43,7 +43,7 @@
 </p>
 
 
-## <p align="center">📱Contact📱</p>
+### <p align="center">📱Contact📱</p>
 
 <p align="center">
 <a href="mailto:smc991009@gmail.com">
